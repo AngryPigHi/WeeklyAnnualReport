@@ -10,6 +10,31 @@
         "MYSQL_USERNAME": "root"
       },
       "applicationUrl": "https://localhost:2796;http://localhost:2797"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "launchBrowser": true,
+      "launchUrl": "https://localhost:2796",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "ASPNETCORE_URLS": "https://localhost:2796;http://localhost:2797",
+        "MYSQL_ADDRESS": "sh-cynosdbmysql-grp-mia77rue.sql.tencentcdb.com:26125",
+        "MYSQL_PASSWORD": "Fruw3maK",
+        "MYSQL_USERNAME": "root"
+      },
+      "distributionName": ""
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "launchBrowser": true,
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "MYSQL_ADDRESS": "sh-cynosdbmysql-grp-mia77rue.sql.tencentcdb.com:26125",
+        "MYSQL_PASSWORD": "Fruw3maK，MYSQL_USERNAME=root"
+      },
+      "publishAllPorts": true,
+      "useSSL": true
     }
   }
 }

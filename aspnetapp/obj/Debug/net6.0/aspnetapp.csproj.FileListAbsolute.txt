@@ -234,3 +234,5 @@ E:\开发项目代码\WeeklyReport日报20210110\WeeklyReport.AnnualReport\aspne
 E:\开发项目代码\WeeklyReport日报20210110\WeeklyReport.AnnualReport\aspnetapp\obj\Debug\net6.0\aspnetapp.pdb
 E:\开发项目代码\WeeklyReport日报20210110\WeeklyReport.AnnualReport\aspnetapp\obj\Debug\net6.0\aspnetapp.genruntimeconfig.cache
 E:\开发项目代码\WeeklyReport日报20210110\WeeklyReport.AnnualReport\aspnetapp\obj\Debug\net6.0\ref\aspnetapp.dll
+E:\开发项目代码\WeeklyReport日报20210110\WeeklyReport.AnnualReport\aspnetapp\obj\Debug\net6.0\aspnetapp.Properties.Resources.resources
+E:\开发项目代码\WeeklyReport日报20210110\WeeklyReport.AnnualReport\aspnetapp\obj\Debug\net6.0\aspnetapp.csproj.GenerateResource.cache

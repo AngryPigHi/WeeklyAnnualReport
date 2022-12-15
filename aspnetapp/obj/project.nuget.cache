@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "mbZ+s+7wVe3YSRxHQl0GwYhoiEu2KevZWG1GRd0/y1Q3TlXspvSVkG99DvjPialSgAslajW/YZLekgi0bvJMEQ==",
+  "dgSpecHash": "qgRrOEdDw43QtLCxzQChXeUw00LH50cvbFt4EkI/oN2XT/snDEaxggLsBdLDY0aOPcUrNPiHwKtfu4KKb/Dn1A==",
   "success": true,
   "projectFilePath": "E:\\开发项目代码\\WeeklyReport日报20210110\\WeeklyReport.AnnualReport\\aspnetapp\\aspnetapp.csproj",
   "expectedPackageFiles": [
@@ -48,6 +48,7 @@
     "C:\\Users\\zhuxb\\.nuget\\packages\\microsoft.net.stringtools\\1.0.0\\microsoft.net.stringtools.1.0.0.nupkg.sha512",
     "C:\\Users\\zhuxb\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\zhuxb\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\zhuxb\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512",
     "C:\\Users\\zhuxb\\.nuget\\packages\\microsoft.visualstudio.debugger.contracts\\17.2.0\\microsoft.visualstudio.debugger.contracts.17.2.0.nupkg.sha512",
     "C:\\Users\\zhuxb\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration\\6.0.1\\microsoft.visualstudio.web.codegeneration.6.0.1.nupkg.sha512",
     "C:\\Users\\zhuxb\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.core\\6.0.1\\microsoft.visualstudio.web.codegeneration.core.6.0.1.nupkg.sha512",
