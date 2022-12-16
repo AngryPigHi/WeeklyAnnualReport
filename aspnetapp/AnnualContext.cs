@@ -5,13 +5,20 @@ using Microsoft.EntityFrameworkCore.Metadata;
 
 namespace aspnetapp
 {
-    public partial class CounterContext : DbContext
+    public partial class AnnualContext : DbContext
     {
-        public CounterContext()
+        public AnnualContext()
         {
         }
+
+
+
         public DbSet<Counter> Counters { get; set; } = null!;
-        public CounterContext(DbContextOptions<CounterContext> options)
+
+
+
+
+        public AnnualContext(DbContextOptions<AnnualContext> options)
             : base(options)
         {
         }
@@ -36,6 +43,7 @@ namespace aspnetapp
                 .HasCharSet("utf8");
             modelBuilder.Entity<Counter>().ToTable("Counters");
             OnModelCreatingPartial(modelBuilder);
+            modelBuilder.ApplyConfigurationsFromAssembly(this.GetType().Assembly);//从本程序集中获取配置
         }
 
         partial void OnModelCreatingPartial(ModelBuilder modelBuilder);

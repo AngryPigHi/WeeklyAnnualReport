@@ -21,9 +21,9 @@ namespace aspnetapp.Controllers
     [ApiController]
     public class CounterController : ControllerBase
     {
-        private readonly CounterContext _context;
+        private readonly AnnualContext _context;
 
-        public CounterController(CounterContext context)
+        public CounterController(AnnualContext context)
         {
             _context = context;
         }

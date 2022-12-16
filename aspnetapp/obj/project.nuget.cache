@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "qgRrOEdDw43QtLCxzQChXeUw00LH50cvbFt4EkI/oN2XT/snDEaxggLsBdLDY0aOPcUrNPiHwKtfu4KKb/Dn1A==",
+  "dgSpecHash": "1Qsfn6xBsGGfXWVvrSYiDc7DvpxfQSFo0Ey1XAFqrzybUqAlQ30x6Kja70O3Fxt4beb2JmPdu+PA1TNwSwlm9w==",
   "success": true,
   "projectFilePath": "E:\\开发项目代码\\WeeklyReport日报20210110\\WeeklyReport.AnnualReport\\aspnetapp\\aspnetapp.csproj",
   "expectedPackageFiles": [
@@ -36,6 +36,7 @@
     "C:\\Users\\zhuxb\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.1\\microsoft.entityframeworkcore.analyzers.6.0.1.nupkg.sha512",
     "C:\\Users\\zhuxb\\.nuget\\packages\\microsoft.entityframeworkcore.design\\6.0.1\\microsoft.entityframeworkcore.design.6.0.1.nupkg.sha512",
     "C:\\Users\\zhuxb\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\6.0.1\\microsoft.entityframeworkcore.relational.6.0.1.nupkg.sha512",
+    "C:\\Users\\zhuxb\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\6.0.1\\microsoft.entityframeworkcore.tools.6.0.1.nupkg.sha512",
     "C:\\Users\\zhuxb\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\zhuxb\\.nuget\\packages\\microsoft.extensions.caching.memory\\6.0.0\\microsoft.extensions.caching.memory.6.0.0.nupkg.sha512",
     "C:\\Users\\zhuxb\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
